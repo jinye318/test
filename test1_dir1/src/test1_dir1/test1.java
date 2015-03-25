@@ -6,6 +6,6 @@ public class test1 {
 		// TODO Auto-generated method stub
 		System.out.println("It is test in dir1");
 		System.out.println("second try");
+		System.out.println("crate new branch");		
 	}
-
 }
